@@ -25,19 +25,17 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdncngyMmFkMjk0dTBkbHVydXRiYXMxa3U4Mnhzbzh3dGs2ZDNydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="560" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtkdDdsN3h6NmxqNTV2cTB2MjBqd3p4bTlhb2gyaXpoZ3EzY2xvOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwrdmPtR2phiqWQqkQ/giphy.gif" />
 </p>
 
 ### 🚀 Featured Product
 
 #### Guide of Dubai
-	⁠⁠ React Native ⁠ ⁠ Cli ⁠ ⁠ Firbase ⁠ ⁠ Notifications ⁠  ⁠ ⁠ ASO ⁠
+	⁠⁠ React Native ⁠ ⁠ Cli ⁠ ⁠ Firebase ⁠ ⁠ Notifications ⁠  ⁠ ⁠ ASO ⁠
 
 Guide of Dubai is a premier tourism brand offering guided tours and experiences to explore the best of Dubai. We specialize in providing tailored tours, ensuring that every traveler experiences the city's top attractions with comfort and style.
 
-•⁠  ⁠Built and shipped the product end-to-end: product strategy, mobile app, backend, onboarding, monetization and release.
-•⁠  ⁠Designed behavior-based UX around habit conditioning, daily cigarette planning and gradual reduction.
-•⁠  ⁠Built subscription, locked mode, notification, retention and review-access flows from scratch.
+Guide of Dubai is a multi-module, scalable tourism platform developed with React Native. The application includes seamless authentication with Google, Apple, and Facebook login integrations, centralized and predictable state management with Redux, map-based route and location services with Mapbox infrastructure, deeplink support, and instant and push notification mechanisms. Backend integrations provide users with a single workflow for visa application processes, eSIM data package purchases, event and tour bookings, flight tickets, car and yacht rentals, hotel reservations, and VIP transportation services. Furthermore, an AI-powered tourism guide assistant provides users with dynamic recommendations, and data exchange between all these modules is achieved through RESTful APIs, resulting in a high-performance, platform-independent (iOS & Android) experience.
 
 <a href="https://apps.apple.com/tr/app/guide-of-dubai-vize-ve-turlar/id6741478557?l=tr">
   <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" />
@@ -77,7 +75,6 @@ Guide of Dubai is a premier tourism brand offering guided tours and experiences 
 ![Haptics](https://img.shields.io/badge/Expo_Haptics-000020?style=flat-square&logo=expo&logoColor=white)
 
 #### State, Data & Storage
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![MMKV](https://img.shields.io/badge/MMKV-FF6B35?style=flat-square)
@@ -90,6 +87,7 @@ Guide of Dubai is a premier tourism brand offering guided tours and experiences 
 ![Expo Localization](https://img.shields.io/badge/Expo_Localization-000020?style=flat-square&logo=expo&logoColor=white)
 
 #### Backend & Infrastructure
+![.Net Core](https://img.shields.io/badge/.NetCore-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -101,6 +99,7 @@ Guide of Dubai is a premier tourism brand offering guided tours and experiences 
 ![Coolify](https://img.shields.io/badge/Coolify-Self_Hosting-FF6C37?style=flat-square)
 
 #### Notifications & Monetization
+![Firebase Cloud Messaging](https://img.shields.io/badge/Firebase_Cloud_Messaging-DD2C00?style=flat-square)
 ![Expo Notifications](https://img.shields.io/badge/Expo_Notifications-000020?style=flat-square&logo=expo&logoColor=white)
 ![Notifee](https://img.shields.io/badge/Notifee-FF6B6B?style=flat-square)
 ![OneSignal](https://img.shields.io/badge/OneSignal-E54B4D?style=flat-square)
