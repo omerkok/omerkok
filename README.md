@@ -24,9 +24,6 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtkdDdsN3h6NmxqNTV2cTB2MjBqd3p4bTlhb2gyaXpoZ3EzY2xvOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SwrdmPtR2phiqWQqkQ/giphy.gif" />
-</p>
 
 ### 🚀 Featured Product
 
